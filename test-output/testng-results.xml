@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29400" started-at="2019-07-31T09:24:36Z" finished-at="2019-07-31T09:25:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29400" started-at="2019-07-31T09:24:36Z" finished-at="2019-07-31T09:25:06Z">
+      <class name="smalltest.Test_Screenshot_PDF">
+        <test-method status="PASS" signature="SanityFlow()[pri:0, instance:smalltest.Test_Screenshot_PDF@643b1d11]" name="SanityFlow" duration-ms="27780" started-at="2019-07-31T14:54:36Z" finished-at="2019-07-31T14:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityFlow -->
+        <test-method status="PASS" signature="PDF()[pri:0, instance:smalltest.Test_Screenshot_PDF@643b1d11]" name="PDF" duration-ms="1601" started-at="2019-07-31T14:55:04Z" finished-at="2019-07-31T14:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PDF -->
+      </class> <!-- smalltest.Test_Screenshot_PDF -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
